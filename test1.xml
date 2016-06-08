@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<catalog>
+      <book id="bk107">
+      <author>Thurman Paula</author>
+      <title>Splish Splash</title>
+      <genre>Fiction</genre>
+      <price>4.95</price>
+      <email>xyz@gmail.com</email>
+      <publish_date>2000-11-02</publish_date>
+      <description>A deep sea diver finds true love twenty thousand leagues beneath the sea.</description>
+   </book>
+      <book id="bk109">
+      <author>Kress Peter</author>
+      <title>Paradox Lost</title>
+      <genre>Science Fiction</genre>
+      <price>6.95</price>
+      <email>xyz@gmail.com</email>
+      <publish_date>2000-11-02</publish_date>
+      <description>After an inadvertant trip through a Heisenberg Uncertainty Device James Salway discovers the problems of being quantum.</description>
+   </book>
+</catalog>
